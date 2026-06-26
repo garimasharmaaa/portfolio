@@ -1,5 +1,5 @@
 // ============ TYPING ANIMATION ============
-const roles = ["Data Analyst", "ML Enthusiast", "Power BI Developer", "Python Developer"];
+const roles = ["Data Analyst"];
 const typedTextEl = document.getElementById("typedText");
 let roleIndex = 0;
 let charIndex = 0;
