@@ -1,5 +1,5 @@
 // ============ TYPING ANIMATION ============
-const roles = ["Data Analyst"];
+const roles = ["Data Analyst","Python Developer"];
 const typedTextEl = document.getElementById("typedText");
 let roleIndex = 0;
 let charIndex = 0;
